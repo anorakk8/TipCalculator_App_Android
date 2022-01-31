@@ -3,4 +3,4 @@ An android app which calculates tip amount for a user based on a user's bill. Eg
 Created using:
 IDE: Android Studio 
 Language: Kotlin 
-![TipCalculator_app_screenshot](https://user-images.githubusercontent.com/98735612/151763995-002d6e62-0a19-4e18-b6c5-79632a2f40b9.png)
+![TipCalculator_app_screenshot1](https://user-images.githubusercontent.com/98735612/151764863-2462c0ed-1859-4844-9e78-f5afbcbcce2f.png)
